@@ -1,0 +1,16 @@
+{
+    "repo_coder": {
+        "chunk_size": 20,
+        "chunk_overlap" : 5,
+        "k": 5
+    },
+    "naive_rag": {
+        "chunk_size": 500,
+        "chunk_overlap" : 50,
+        "k": 5
+    },
+    "ai_client": {
+        "url": "",
+        "key": ""
+    }
+}
