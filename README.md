@@ -2,6 +2,7 @@
 This is the Official Repository for the repository level code generation benchmark: MRGBench
 
 ## Structure
+```
 .
 ├── data
 │   ├── all_context_project_dict.json  # context information in project
@@ -38,6 +39,7 @@ This is the Official Repository for the repository level code generation benchma
     │   ├── go_parser.py
     │   ├── java_parser.py
     │   └── py_parser.py
+```
 
 ## Usage
 
